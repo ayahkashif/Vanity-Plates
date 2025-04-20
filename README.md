@@ -1,6 +1,5 @@
 # 🚘 Vanity-Plates
 Filter through your choices of vanity plates based on government requirements.<br/><br/>
-<img src="https://github.com/ayahkashif/Vanity-Plates/blob/main/assets/sample.jpg" width="403" height="302"><br/><br/>
 
 ## 📂 Feature
 Input the vanity plate of your choice, the program will check for you if it's valid based on the following government rules, no more worries :)
@@ -10,4 +9,4 @@ Input the vanity plate of your choice, the program will check for you if it's va
 - No periods, spaces, or punctuation marks are allowed.<br/><br/>
 
 ## 💾 Demo
-<img src="https://github.com/ayahkashif/Vanity-Plates/blob/main/assets/demo.png" width="348" height="310">
+<img src="https://github.com/ayahkashif/Vanity-Plates/blob/main/assets/demo.png" width="348" height="310">  <img src="https://github.com/ayahkashif/Vanity-Plates/blob/main/assets/sample.jpg" width="403" height="302">
